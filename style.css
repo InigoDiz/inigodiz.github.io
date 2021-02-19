@@ -63,4 +63,8 @@ a {
     a {
       color: #0A84FF;
     }
+    .fa-envelope {
+        background-color: #fff;
+        color: #000;
+      }
   }
