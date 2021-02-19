@@ -63,8 +63,10 @@ a {
     a {
       color: #0A84FF;
     }
+    .fa, .fab {
+      color: #000;
+    }
     .fa-envelope {
         background-color: #fff;
-        color: #000;
       }
   }
